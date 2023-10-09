@@ -1,0 +1,18 @@
+{
+  "name": "tugas-4",
+  "version": "1.0.0",
+  "description": "\"tugas 4 DOM dan HTTP Server\"",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ipan212"
+  },
+  "author": "Ipan Nugraha [nugrahaipan55@gmail.com]",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
